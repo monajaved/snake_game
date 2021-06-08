@@ -79,7 +79,7 @@ function startGame () {
     //     generate new apple
         generateApple()
     //     score increment
-        score= score +10
+        score= score +5
     //     display score
         scoreDisplay.textContent = score
     //     speed up the snake

@@ -6,14 +6,14 @@ html, body {
   }
   
   h1 {
-    Color: rgba(171, 140, 255, 1);
+    Color: rgb(173, 3, 74);
     text-align: center;
   }
   
   h2 {
-    Color: rgba(171, 34, 94, 1);
+    Color: rgb(173, 98, 131);
     font-weight: bold;
-    text-decoration: underline;
+    /* text-decoration: underline; */
   }
   
   #startBtn {
